@@ -4,7 +4,7 @@ A Digital Thermometer using PIC microcontroller and LM35 Temperature Sensor. In 
 
 In this we use microcontroller to implement the digital thermometer to get tempearture, in this different components used to construct the thermometer
 
-
+![DTM0501-0](https://user-images.githubusercontent.com/101176652/164695563-284ab8d2-b00e-424d-a0ba-06ffe263450c.jpg)
 
 ## Folder Structure
 |Folder             | Description |
