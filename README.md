@@ -21,10 +21,13 @@ In this we use microcontroller to implement the digital thermometer to get tempe
 
 Codiga
 
+![Code Quality Score](https://api.codiga.io/project/33038/score/svg)
 
+![Code Grade](https://api.codiga.io/project/33038/status/svg)
 
 Codacy
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2ea067d256de47c4834f2f970210fefc)](https://www.codacy.com/gh/bhsmadhuri/M2_Digital-Thermometer/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=bhsmadhuri/M2_Digital-Thermometer&amp;utm_campaign=Badge_Grade)
 
 ### Badges
 |Build CI-Linux|Build CI-Windows|Analysis|Unit Testing |Git Inspector|
