@@ -27,5 +27,6 @@ Codacy
 
 
 ### Badges
-|Build CI-Linux|Build CI-Windows|Analysis|Unit Testing |cppcheck|Git Inspector|
-|:--:|:--:|:--:|:--:|:--:|:--:|
+|Build CI-Linux|Build CI-Windows|Analysis|Unit Testing |Git Inspector|
+|:--:|:--:|:--:|:--:|:--:|
+|[![Build_CI - Linux](https://github.com/bhsmadhuri/M2_Digital-Thermometer/actions/workflows/linux.yml/badge.svg)](https://github.com/bhsmadhuri/M2_Digital-Thermometer/actions/workflows/linux.yml)|[![Bulid CI - windows](https://github.com/bhsmadhuri/M2_Digital-Thermometer/actions/workflows/windows.yml/badge.svg)](https://github.com/bhsmadhuri/M2_Digital-Thermometer/actions/workflows/windows.yml)|[![Analysis](https://github.com/bhsmadhuri/M2_Digital-Thermometer/actions/workflows/Analysis.yml/badge.svg)](https://github.com/bhsmadhuri/M2_Digital-Thermometer/actions/workflows/Analysis.yml)|[![Unit Testing - Unity](https://github.com/bhsmadhuri/M2_Digital-Thermometer/actions/workflows/unit_test.yml/badge.svg)](https://github.com/bhsmadhuri/M2_Digital-Thermometer/actions/workflows/unit_test.yml)|[![Git Inspector](https://github.com/bhsmadhuri/M2_Digital-Thermometer/actions/workflows/gitinsp.yml/badge.svg)](https://github.com/bhsmadhuri/M2_Digital-Thermometer/actions/workflows/gitinsp.yml)|
