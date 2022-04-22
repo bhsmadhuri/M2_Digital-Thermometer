@@ -1,14 +1,15 @@
 # Name of the project
-PROJ_NAME = PowerBillVariousSegments
-TEST_PROJ_NAME = Test_$(PROJ_NAME)
+PROJECT_NAME = Digital-Thermometer
 
-BUILD_DIR = Build
+ 
+# Output directory
+BUILD = build
 
 # All source code files
-SRC =src/FunctionsPowerInvoice.c
+SRC =main.c
 
 # All test source files
-TEST_SRC = test/test_PB.c\
+TEST_SRC = test/test_DT.c\
 unity/unity.c
 
 # All include folders with header files
